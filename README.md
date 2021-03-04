@@ -8,7 +8,7 @@ Chat Application using React JS and Chat Engine.
 -   Chat Engine API ( https://chatengine.io/ )
 -   Javascript, Jsx and CSS.
 
-# Dependencies
+## Dependencies
 
     "@ant-design/icons": "^4.5.0",
     "axios": "^0.21.1",
@@ -17,4 +17,4 @@ Chat Application using React JS and Chat Engine.
     "react-dom": "^17.0.1",
     "react-scripts": "4.0.2",
 
-&copy; Cale Cabrer, 2021.
+&copy; Cale Cabrera, 2021.
