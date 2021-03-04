@@ -1,12 +1,14 @@
 # Chat Application
 
-Chat Application using React JS and Chat Engine.
+[Chat Application](https://cc-chat.netlify.app) using React JS and Chat Engine.
+
 
 ### Features
 
 -   Chat application using React JS
 -   Chat Engine API ( https://chatengine.io/ )
 -   Javascript, Jsx and CSS.
+-   Deployment: Netlify
 
 ## Dependencies
 
