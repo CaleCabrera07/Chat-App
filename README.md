@@ -1,6 +1,7 @@
 # Chat Application
 
 [Chat Application](https://cc-chat.netlify.app) using React JS and Chat Engine.
+Note: Please use "Guest" as username and "1234" as password.
 
 
 ### Features
